@@ -1,3 +1,6 @@
 builddir
+build
 *.lnk
+*.ico
+*.jpg
 generator.ps1
