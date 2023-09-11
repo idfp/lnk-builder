@@ -24,13 +24,7 @@ meson compile
 If everything went smooth, you'll get an executable named `lnkbuilder.exe`.
 
 ### Precompiled Binary
-I planned to put it in release page, for now just clone the repo and use `lnkbuilder.exe` in root folder of this project.
-
-```
-git clone https://github.com/idfp/lnk-builder
-cd lnk-builder/
-lnkbuilder.exe
-```
+Download the precompiled binary from the [Release Page](https://github.com/idfp/lnk-builder/releases/). And use it normally.
 
 ## Usage
 ```ruby
